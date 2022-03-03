@@ -1,0 +1,26 @@
+{
+  "name": "api-rest-node",
+  "version": "1.0.0",
+  "description": "> Api para petShop",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kemoelamorim/api-rest-node.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kemoelamorim/api-rest-node/issues"
+  },
+  "homepage": "https://github.com/kemoelamorim/api-rest-node#readme",
+  "dependencies": {
+    "body-parser": "^1.19.2",
+    "express": "^4.17.3",
+    "mysql2": "^2.3.3",
+    "sequelize": "^6.17.0"
+  }
+}
